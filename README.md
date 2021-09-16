@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kellantech
 - 👀 I’m interested in python, c++, rubik's cubes
-- 🌱 I’m currently learning pyhton, c+++
+- 🌱 I’m currently learning pyhton, c++
 - 
