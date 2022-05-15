@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kellantech
-- 👀 I’m interested in python, c++,js, rubik's cubes
-- 🌱 I’m currently learning python, c++,js
+- 👀 I’m interested in python, c++,js, rubik's cubes, calculus
+
 - Contact me at kellanbutler52@gmail.com
