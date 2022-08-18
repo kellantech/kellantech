@@ -9,4 +9,3 @@ https://www.worldcubeassociation.org/persons/2022BUTL02
 
 - Contact me at kellanbutler52@gmail.com
 - 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kellantech)
